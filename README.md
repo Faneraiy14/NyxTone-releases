@@ -1,5 +1,9 @@
 # NyxTone — збірки / builds
 
+> **Бета-версія.** NyxTone ще в повному розпалі розробки: можливі помилки, можливості й формат проєктів змінюватимуться.
+> Робіть копії важливих проєктів. / **Beta.** NyxTone is still under heavy development: expect bugs; features and the
+> project format will change. Keep backups of important projects.
+
 **NyxTone** — програма для створення музики: запис, інструменти, ефекти, мікшер, експорт.
 Тут лише готові збірки (код програми закритий). Завантаження — у розділі **Releases** праворуч.
 
