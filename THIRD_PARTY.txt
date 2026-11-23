@@ -1,0 +1,40 @@
+NyxTone — ЛІЦЕНЗІЇ СТОРОННІХ БІБЛІОТЕК / THIRD-PARTY LICENSES
+==================================================================
+
+NyxTone (© 2026 Faneraiy14, усі права застережені / all rights reserved) використовує бібліотеки нижче. Усі вони
+підключаються ДИНАМІЧНО (окремими файлами .so / .dll): ви можете замінити їх власними версіями, сумісними за
+інтерфейсом. Вихідний код цих бібліотек доступний за наведеними адресами.
+
+NyxTone uses the libraries below. All of them are linked DYNAMICALLY (separate .so / .dll files): you may replace
+them with your own interface-compatible versions. Their source code is available at the addresses given.
+
+------------------------------------------------------------------
+Qt 6 (Core, Gui, Widgets)
+  © The Qt Company Ltd. and other contributors
+  Ліцензія / License: GNU Lesser General Public License v3.0 (LGPL-3.0)
+  https://www.qt.io/  ·  source: https://download.qt.io/official_releases/qt/
+
+libsndfile
+  © Erik de Castro Lopo and contributors
+  Ліцензія / License: GNU Lesser General Public License v2.1 or later (LGPL-2.1+)
+  https://libsndfile.github.io/libsndfile/
+  libsndfile, своєю чергою, може використовувати / may in turn use:
+    FLAC (BSD-3-Clause), libogg / libvorbis (BSD-3-Clause), Opus (BSD-3-Clause),
+    mpg123 (LGPL-2.1), LAME (LGPL-2.0+)
+
+JACK Audio Connection Kit — бібліотека клієнта / client library (libjack)
+  © Paul Davis, Stéphane Letz and contributors
+  Ліцензія / License: GNU Lesser General Public License v2.1 or later (LGPL-2.1+)
+  https://jackaudio.org/   (на Linux її також надає PipeWire / also provided by PipeWire, MIT)
+
+ALSA library (libasound)
+  © Jaroslav Kysela and contributors
+  Ліцензія / License: GNU Lesser General Public License v2.1 or later (LGPL-2.1+)
+  https://www.alsa-project.org/
+
+Файли SoundFont (.sf2), які людина відкриває в NyxTone, — її власні (чи з їхніми ліцензіями); NyxTone їх не постачає.
+SoundFont files (.sf2) opened in NyxTone belong to the user (under their own licenses); NyxTone does not ship them.
+
+------------------------------------------------------------------
+Повні тексти ліцензій — нижче / Full license texts follow below:
+  LGPL-3.0 (з посиланням на GPL-3.0 / referring to GPL-3.0), LGPL-2.1

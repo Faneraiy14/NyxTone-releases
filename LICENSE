@@ -1,0 +1,17 @@
+NyxTone
+Copyright © 2026 Faneraiy14. Усі права застережені / All rights reserved.
+
+Цей репозиторій містить лише готові збірки програми NyxTone, без вихідного коду. Використання збірок дозволене
+виключно на умовах Угоди користувача: EULA.uk.txt (українською) або EULA.en.txt (англійською).
+Завантажуючи, встановлюючи чи запускаючи NyxTone, ви погоджуєтесь з цими умовами. Копіювати, змінювати, розбирати
+(декомпілювати) чи поширювати програму поза межами, дозволеними Угодою, заборонено.
+
+This repository contains only ready-made builds of NyxTone, without source code. The builds may be used solely under
+the End User License Agreement: EULA.uk.txt (Ukrainian) or EULA.en.txt (English). By
+downloading, installing or running NyxTone you agree to these terms. Copying, modifying, reverse-engineering
+(decompiling) or redistributing the program beyond what the Agreement allows is prohibited.
+
+Сторонні бібліотеки, з якими працює NyxTone (Qt 6, libsndfile, JACK, ALSA тощо), мають власні ліцензії й підключаються
+динамічно — див. THIRD_PARTY.txt і теку licenses/.
+Third-party libraries used by NyxTone (Qt 6, libsndfile, JACK, ALSA, etc.) carry their own licenses and are linked
+dynamically — see THIRD_PARTY.txt and the licenses/ folder.

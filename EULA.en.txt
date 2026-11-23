@@ -1,0 +1,45 @@
+NYXTONE END USER LICENSE AGREEMENT
+Version 1, November 23, 2026
+
+This agreement is a contract between you (the "User") and Faneraiy14, the rights holder of NyxTone (the "Rights Holder"). By installing, running or using NyxTone you agree to the terms below. If you do not agree, do not use the software.
+
+1. WHAT YOU MAY DO
+1.1. The Rights Holder grants you, free of charge, a non-exclusive right to install and use NyxTone on your devices for any lawful purpose, personal or commercial (for example, recording and selling your own music).
+1.2. You may share a link to the official NyxTone download page.
+
+2. WHAT IS NOT ALLOWED
+2.1. Selling, renting or otherwise distributing NyxTone for a fee, or presenting it as your own work.
+2.2. Distributing modified copies of NyxTone, or copies from sources other than the official page, as the original.
+2.3. Decompiling, disassembling or otherwise reconstructing the source code of NyxTone, except where expressly permitted by law.
+2.4. Removing or altering copyright notices, trademarks or this agreement.
+2.5. Using NyxTone to break the law or infringe the rights of others.
+
+3. YOUR MUSIC IS YOURS
+3.1. Everything you create with NyxTone (recordings, songs, projects, exported files) belongs to you. The Rights Holder claims no rights to your work and does not receive it.
+3.2. You are responsible for having the rights to the material you use (for example, third-party samples or songs).
+
+4. PRIVACY
+4.1. NyxTone does not collect or send your data, recordings or projects. Audio and files stay on your device.
+4.2. If future versions add online features (for example, update checks), this will be stated separately and they will be possible to turn off.
+
+5. THIRD-PARTY COMPONENTS
+5.1. NyxTone uses libraries by other authors (Qt, libsndfile, JACK, ALSA and others) under their own licenses. Their list and license texts are in "Help → Third-party licenses". Those licenses take precedence over this agreement for the respective libraries.
+
+6. NO WARRANTY
+6.1. NyxTone is provided "AS IS". The Rights Holder does not guarantee that the software will be error-free or uninterrupted, or fit for your particular purpose.
+6.2. Back up your projects and recordings regularly.
+
+7. LIMITATION OF LIABILITY
+7.1. To the extent permitted by law, the Rights Holder is not liable for any damages, loss of data, recordings or profit related to the use of, or inability to use, NyxTone.
+
+8. UPDATES AND CHANGES TO THIS AGREEMENT
+8.1. The Rights Holder may release new versions of NyxTone and change this agreement. A new version of the agreement will be shown in the software and must be accepted to continue using it.
+
+9. TERMINATION
+9.1. This agreement remains in effect while you use NyxTone. If you breach its terms, your right to use the software ends — in that case, uninstall it. Works you have created remain yours.
+
+10. GOVERNING LAW
+10.1. This agreement is governed by the laws of Ukraine. If any provision is found invalid, the rest remains in force.
+
+11. COPYRIGHT
+© 2026 Faneraiy14. NyxTone and the NyxTone logo belong to the Rights Holder. All rights not expressly granted by this agreement are reserved.
